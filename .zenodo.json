@@ -1,0 +1,19 @@
+{
+  "title": "Countries Dataset",
+  "description": "A clean, UTF-8 encoded country and territory reference dataset based on ISO 3166-1 country code elements, provided in CSV, JSON, YAML, plain text, comma-separated text, and typeahead-friendly JSON formats.",
+  "creators": [
+    {
+      "name": "Himpfen, Brandon"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "countries",
+    "country codes",
+    "ISO 3166",
+    "reference data",
+    "dataset"
+  ],
+  "upload_type": "dataset",
+  "access_right": "open"
+}
