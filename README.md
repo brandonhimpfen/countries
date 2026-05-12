@@ -1,5 +1,8 @@
 # Countries Dataset
 
+[![Support Open Work](https://img.shields.io/badge/Support-Open%20Work-0A0A0A?style=flat&logo=github)](https://github.com/brandonhimpfen/support) 
+[![DOI](https://zenodo.org/badge/365576488.svg)](https://doi.org/10.5281/zenodo.20141608)
+
 A clean, UTF-8 encoded country and territory reference dataset based on ISO 3166-1 country code elements.
 
 This repository provides country and territory names with ISO alpha-2, alpha-3, and numeric codes in CSV, JSON, YAML, plain text, comma-separated text, and typeahead-friendly JSON formats.
